@@ -1,16 +1,16 @@
 {"summaryData":[
     {
-        "Candidates": "ZANU PF\n(Emmerson D Mnangagwa)",
+        "Candidates": "ZANU PF(Emmerson D Mnangagwa)",
         "Status": "Running",
-        "1.Numberofrallies": "(June) (July) (August)",
-        "2.Useofsocialmedia(specificplatforms)+actualreach": "(June) (July) (August)",
-        "3.Promisesmadebypoliticalparties.": "(June) (July) (August)",
-        "4.ExtenttowhichtheseareSMART/AretheySMART(Yes/No)\nSMART-Specific,Measurable,Attainable,Realistic,Timebound": "(June) (July) (August)",
-        "5.Incidentsofviolence": "(June) (July) (August)",
-        "6.Violationsofrights": "(June) (July) (August)",
-        "7.Mediabased/facilitateddebates": "(June) (July) (August)",
-        "8.Politicalarrests": "(June) (July) (August)",
-        "9.Permissiondenied": "(June) (July) (August)"
+        "numRallies": "(June) (July) (August)",
+        "socialMedia": "(June) (July) (August)",
+        "promises": "(June) (July) (August)",
+        "smart": "(June) (July) (August)",
+        "violence": "(June) (July) (August)",
+        "rights": "(June) (July) (August)",
+        "mediaBased": "(June) (July) (August)",
+        "arrests": "(June) (July) (August)",
+        "denied": "(June) (July) (August)"
     },
     {
         "Candidates": "CCC \n(Nelson Chamisa)",
