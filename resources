@@ -1,4 +1,4 @@
-[
+{"resources":[
     {
         "Title": "Open Parly ZW Facebook",
         "PictureURL": "https://scontent.fhre1-1.fna.fbcdn.net/v/t39.30808-6/352292926_227061513438934_7233183092230641641_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=7EUuoFwBCxoAX-gYUEq&_nc_ht=scontent.fhre1-1.fna&oh=00_AfCTjD2VywMeC67qRyWsY68GFsGkWROmVXvMlgtQbn8fkQ&oe=64B4334A",
@@ -8,11 +8,6 @@
         "Title": "ZANU PF website",
         "PictureURL": "https://th.bing.com/th/id/OIP.oNvYo4sMjTaonEyD7bqP_gAAAA?pid=ImgDet&rs=1",
         "URLlink": "https://www.zanupf.org.zw/"
-    },
-    {
-        "Title": "ZANU PF RULES AND REGULATIONS GOVERNING THE CONDUCT OF PRIMARY ELECTIONS",
-        "PictureURL": "https://th.bing.com/th/id/OIP.oNvYo4sMjTaonEyD7bqP_gAAAA?pid=ImgDet&rs=1",
-        "URLlink": "https://zanupf.org.zw/storage/files/zanu-pf-rules-and-regulations-governing-the-conduct-of-primary-elections.pdf"
     },
     {
         "Title": "UNITED ZIMBABWE ALLIANCE 2023 MANIFESTO NATIONAL ELECTIONS",
@@ -60,3 +55,4 @@
         "URLlink": ""
     },
 ]
+}
